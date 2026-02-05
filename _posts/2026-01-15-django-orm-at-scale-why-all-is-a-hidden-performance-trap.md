@@ -3,6 +3,7 @@ title: Django ORM at Scale Why .all() Is a Hidden Performance Trap
 date: 2026-01-15 20:00:00 +0200
 categories: [Django, ORM]
 tags: [python, django, database]
+post_url: 2026-01-15-django-orm-at-scale-why-all-is-a-hidden-performance-trap
 ---
 
 ## Introduction
